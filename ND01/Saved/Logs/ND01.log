@@ -2521,3 +2521,27 @@ Script Stack (0 frames) :
 [2025.10.17-03.33.15:609][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.10.17-03.33.15:611][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2025.10.17-03.33.15:723][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.10.17-03.33.41:015][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.17-03.33.41:016][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levl1" FILE="../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/Levl1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.10.17-03.33.41:033][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levl1_Auto7
+[2025.10.17-03.33.41:033][183]LogSavePackage: Moving '../../../../../../class/ND1/ND1/ND01/Saved/Levl1_Auto7E82CC07249335E6CD877A8841937088D.tmp' to '../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/Levl1_Auto7.umap'
+[2025.10.17-03.33.41:035][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levl1' took 0.045
+[2025.10.17-03.33.41:035][183]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.10.17-03.33.41:035][183]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Ball] ([2] browsable assets)...
+[2025.10.17-03.33.41:061][183]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ball.Ball]
+[2025.10.17-03.33.41:061][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ball]
+[2025.10.17-03.33.41:061][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ball" FILE="../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/Ball_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.10.17-03.33.41:080][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ball_Auto7
+[2025.10.17-03.33.41:080][183]LogSavePackage: Moving '../../../../../../class/ND1/ND1/ND01/Saved/Ball_Auto71D2ED23D4529C1BEB035DB98D8118F41.tmp' to '../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/Ball_Auto7.uasset'
+[2025.10.17-03.33.41:081][183]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameManager] ([2] browsable assets)...
+[2025.10.17-03.33.41:081][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameManager]
+[2025.10.17-03.33.41:082][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameManager" FILE="../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/GameManager_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.10.17-03.33.41:104][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameManager_Auto7
+[2025.10.17-03.33.41:104][183]LogSavePackage: Moving '../../../../../../class/ND1/ND1/ND01/Saved/GameManager_Auto7BB4AA2DD4267369B553E7E9FAC88024C.tmp' to '../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/GameManager_Auto7.uasset'
+[2025.10.17-03.33.41:105][183]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GameOverWidqet] ([2] browsable assets)...
+[2025.10.17-03.33.41:108][183]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GameOverWidqet.GameOverWidqet]
+[2025.10.17-03.33.41:108][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameOverWidqet]
+[2025.10.17-03.33.41:108][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameOverWidqet" FILE="../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/GameOverWidqet_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.10.17-03.33.41:124][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameOverWidqet_Auto7
+[2025.10.17-03.33.41:124][183]LogSavePackage: Moving '../../../../../../class/ND1/ND1/ND01/Saved/GameOverWidqet_Auto7C3C8155E405EC6DA4FDA4E9361DACB03.tmp' to '../../../../../../class/ND1/ND1/ND01/Saved/Autosaves/Game/GameOverWidqet_Auto7.uasset'
+[2025.10.17-03.33.41:125][183]LogFileHelpers: Auto-saving content packages took 0.090
