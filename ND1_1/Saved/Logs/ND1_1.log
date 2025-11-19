@@ -2001,3 +2001,135 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.19-02.55.42:948][850]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
 [2025.11.19-02.55.42:961][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2025.11.19-02.55.43:050][851]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.11.19-02.59.17:880][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2025.11.19-02.59.41:806][575]LogProjectBrowser: Looking for projects...
+[2025.11.19-02.59.41:806][575]LogProjectBrowser: Found Engine Installation "5.6"(C:/Program Files/Epic Games/UE_5.6)
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.6
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Looking for directories to scan from : C:/Users/吉田彪/AppData/Local/UnrealEngine/5.6/Saved/Config/WindowsEditor
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Searching for previously created project directories...
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found directory: "C:/Users/吉田彪/OneDrive/ドキュメント/Unreal Projects"
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found directory: "C:/class/ND1"
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found directory: "C:/class/UEEffect"
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found directory: "C:/class/ND1/ND1"
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/MyProject/MyProject.uproject",LastOpenTime=2025.10.01-02.21.15)" in recently opened files
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1/ND1.uproject",LastOpenTime=2025.10.01-02.25.26)" in recently opened files
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/MyProject/MyProject.uproject",LastOpenTime=2025.10.08-01.29.07)" in recently opened files
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1/MyProject.uproject",LastOpenTime=2025.10.15-01.19.33)" in recently opened files
+[2025.11.19-02.59.41:807][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/effect/effect.uproject",LastOpenTime=2025.10.20-01.31.14)" in recently opened files
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/EF/EF.uproject",LastOpenTime=2025.10.20-03.45.57)" in recently opened files
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND01/ND01.uproject",LastOpenTime=2025.10.22-00.57.43)" in recently opened files
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/FLGame/FLGame.uproject",LastOpenTime=2025.10.27-07.29.15)" in recently opened files
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/MyProject/MyProject.uproject",LastOpenTime=2025.11.19-01.07.30)" in recently opened files
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1_1/ND1_1.uproject",LastOpenTime=2025.11.19-01.50.27)" in recently opened files
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "C:/class/UEEffect/EF/EF.uproject" in previously created project directory
+[2025.11.19-02.59.41:808][575]LogDesktopPlatform: Found project "C:/class/UEEffect/effect/effect.uproject" in previously created project directory
+[2025.11.19-02.59.41:809][575]LogDesktopPlatform: Found project "C:/class/UEEffect/MyProject/MyProject.uproject" in previously created project directory
+[2025.11.19-02.59.41:809][575]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2025.11.19-02.59.41:810][575]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2025.11.19-02.59.41:864][575]ImportText (Variants): Missing closing parenthesis: (Name="TwinStick",LocalizedDisplayNames=((Language="en",Text="Twin Stick"),(Language="ja",Text="ツインスティック"),(Language="ko",Text="트윈 스틱"),(Language="zh-Hans",Text="双摇杆游戏模板")),LocalizedDescriptions=((Language="en",Text="A twin stick shooter game with infinitely spawning enemies."),(Language="ja",Text="敵が無限にスポーンするツイン スティック シューティング ゲーム"),(Language="ko",Text="무한히 생성되는 적을 상대하는 트윈 스틱 슈팅 게임입니다."),(Language="zh-Hans",Text="一款双摇杆设计游戏，具有无限刷新的敌人。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(MountName="Input",DetailLevels=("High")))
+[2025.11.19-02.59.41:865][575]ImportText (Variants): Missing closing parenthesis: (Name="All",LocalizedDisplayNames=((Language="en",Text="All"),(Language="ja",Text="All (全員)"),(Language="ko",Text="모두"),(Language="zh-Hans",Text="全部")),LocalizedDescriptions=((Language="en",Text="Includes all Top Down variants."),(Language="ja",Text="すべてのトップダウン バリアントが含まれています"),(Language="ko",Text="모든 탑 뷰 베리언트를 포함합니다."),(Language="zh-Hans",Text="包含全部第三人称模板变体。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(DetailLevels=(Standard),MountName="Variant_Strategy"),(MountName="Input",DetailLevels=("High")))
+[2025.11.19-02.59.44:966][752]LogSlate: Window 'プロジェクトを開く' being destroyed
+[2025.11.19-02.59.47:245][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.11.19-02.59.50:706][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4162.621094
+[2025.11.19-02.59.51:011][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-02.59.51:011][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4162.910645, Update Interval: 319.116791
+[2025.11.19-02.59.55:705][317]LogProjectBrowser: Looking for projects...
+[2025.11.19-02.59.55:705][317]LogProjectBrowser: Found Engine Installation "5.6"(C:/Program Files/Epic Games/UE_5.6)
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.6
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Looking for directories to scan from : C:/Users/吉田彪/AppData/Local/UnrealEngine/5.6/Saved/Config/WindowsEditor
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Searching for previously created project directories...
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found directory: "C:/Users/吉田彪/OneDrive/ドキュメント/Unreal Projects"
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found directory: "C:/class/ND1"
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found directory: "C:/class/UEEffect"
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found directory: "C:/class/ND1/ND1"
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/MyProject/MyProject.uproject",LastOpenTime=2025.10.01-02.21.15)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1/ND1.uproject",LastOpenTime=2025.10.01-02.25.26)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/MyProject/MyProject.uproject",LastOpenTime=2025.10.08-01.29.07)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1/MyProject.uproject",LastOpenTime=2025.10.15-01.19.33)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/effect/effect.uproject",LastOpenTime=2025.10.20-01.31.14)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/EF/EF.uproject",LastOpenTime=2025.10.20-03.45.57)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND01/ND01.uproject",LastOpenTime=2025.10.22-00.57.43)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/FLGame/FLGame.uproject",LastOpenTime=2025.10.27-07.29.15)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/MyProject/MyProject.uproject",LastOpenTime=2025.11.19-01.07.30)" in recently opened files
+[2025.11.19-02.59.55:705][317]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1_1/ND1_1.uproject",LastOpenTime=2025.11.19-01.50.27)" in recently opened files
+[2025.11.19-02.59.55:706][317]LogDesktopPlatform: Found project "C:/class/UEEffect/EF/EF.uproject" in previously created project directory
+[2025.11.19-02.59.55:706][317]LogDesktopPlatform: Found project "C:/class/UEEffect/effect/effect.uproject" in previously created project directory
+[2025.11.19-02.59.55:706][317]LogDesktopPlatform: Found project "C:/class/UEEffect/MyProject/MyProject.uproject" in previously created project directory
+[2025.11.19-02.59.55:706][317]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2025.11.19-02.59.55:706][317]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2025.11.19-02.59.55:731][317]ImportText (Variants): Missing closing parenthesis: (Name="TwinStick",LocalizedDisplayNames=((Language="en",Text="Twin Stick"),(Language="ja",Text="ツインスティック"),(Language="ko",Text="트윈 스틱"),(Language="zh-Hans",Text="双摇杆游戏模板")),LocalizedDescriptions=((Language="en",Text="A twin stick shooter game with infinitely spawning enemies."),(Language="ja",Text="敵が無限にスポーンするツイン スティック シューティング ゲーム"),(Language="ko",Text="무한히 생성되는 적을 상대하는 트윈 스틱 슈팅 게임입니다."),(Language="zh-Hans",Text="一款双摇杆设计游戏，具有无限刷新的敌人。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(MountName="Input",DetailLevels=("High")))
+[2025.11.19-02.59.55:731][317]ImportText (Variants): Missing closing parenthesis: (Name="All",LocalizedDisplayNames=((Language="en",Text="All"),(Language="ja",Text="All (全員)"),(Language="ko",Text="모두"),(Language="zh-Hans",Text="全部")),LocalizedDescriptions=((Language="en",Text="Includes all Top Down variants."),(Language="ja",Text="すべてのトップダウン バリアントが含まれています"),(Language="ko",Text="모든 탑 뷰 베리언트를 포함합니다."),(Language="zh-Hans",Text="包含全部第三人称模板变体。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(DetailLevels=(Standard),MountName="Variant_Strategy"),(MountName="Input",DetailLevels=("High")))
+[2025.11.19-03.00.02:980][732]LogSlate: Window 'プロジェクトを開く' being destroyed
+[2025.11.19-03.00.08:225][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.11.19-03.00.12:524][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.11.19-03.00.22:953][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.11.19-03.00.22:962][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-03.00.23:054][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levl1" FILE="../../../../../../class/ND1/ND1/ND1_1/Content/Levl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.19-03.00.23:114][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.19-03.00.23:142][822]LogSavePackage: Moving output files for package: /Game/Levl1
+[2025.11.19-03.00.23:142][822]LogSavePackage: Moving '../../../../../../class/ND1/ND1/ND1_1/Saved/Levl1FC787B4147D39FDAEF0371AEE117B40B.tmp' to '../../../../../../class/ND1/ND1/ND1_1/Content/Levl1.umap'
+[2025.11.19-03.00.23:155][822]LogFileHelpers: すべてのファイルがすでに保存済みです
+[2025.11.19-03.00.23:155][822]LogFileHelpers: Saving map 'Levl1' took 0.102
+[2025.11.19-03.00.23:185][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.067 ms (total: 522.226 ms)
+[2025.11.19-03.00.23:250][822]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-03.00.23:250][822]LogContentValidation: Enabled validators:
+[2025.11.19-03.00.23:250][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-03.00.23:250][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-03.00.23:250][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-03.00.23:250][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-03.00.23:250][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-03.00.23:250][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-03.00.23:250][822]AssetCheck: /Game/Levl1 アセットを検証しています
+[2025.11.19-03.00.28:518][ 90]LogProjectBrowser: Looking for projects...
+[2025.11.19-03.00.28:518][ 90]LogProjectBrowser: Found Engine Installation "5.6"(C:/Program Files/Epic Games/UE_5.6)
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.6
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Looking for directories to scan from : C:/Users/吉田彪/AppData/Local/UnrealEngine/5.6/Saved/Config/WindowsEditor
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Searching for previously created project directories...
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found directory: "C:/Users/吉田彪/OneDrive/ドキュメント/Unreal Projects"
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found directory: "C:/class/ND1"
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found directory: "C:/class/UEEffect"
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found directory: "C:/class/ND1/ND1"
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/MyProject/MyProject.uproject",LastOpenTime=2025.10.01-02.21.15)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1/ND1.uproject",LastOpenTime=2025.10.01-02.25.26)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/MyProject/MyProject.uproject",LastOpenTime=2025.10.08-01.29.07)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1/MyProject.uproject",LastOpenTime=2025.10.15-01.19.33)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/effect/effect.uproject",LastOpenTime=2025.10.20-01.31.14)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/EF/EF.uproject",LastOpenTime=2025.10.20-03.45.57)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND01/ND01.uproject",LastOpenTime=2025.10.22-00.57.43)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/FLGame/FLGame.uproject",LastOpenTime=2025.10.27-07.29.15)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/UEEffect/MyProject/MyProject.uproject",LastOpenTime=2025.11.19-01.07.30)" in recently opened files
+[2025.11.19-03.00.28:519][ 90]LogDesktopPlatform: Found project "(ProjectName="C:/class/ND1/ND1/ND1_1/ND1_1.uproject",LastOpenTime=2025.11.19-01.50.27)" in recently opened files
+[2025.11.19-03.00.28:520][ 90]LogDesktopPlatform: Found project "C:/class/UEEffect/EF/EF.uproject" in previously created project directory
+[2025.11.19-03.00.28:520][ 90]LogDesktopPlatform: Found project "C:/class/UEEffect/effect/effect.uproject" in previously created project directory
+[2025.11.19-03.00.28:520][ 90]LogDesktopPlatform: Found project "C:/class/UEEffect/MyProject/MyProject.uproject" in previously created project directory
+[2025.11.19-03.00.28:520][ 90]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2025.11.19-03.00.28:520][ 90]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2025.11.19-03.00.28:544][ 90]ImportText (Variants): Missing closing parenthesis: (Name="TwinStick",LocalizedDisplayNames=((Language="en",Text="Twin Stick"),(Language="ja",Text="ツインスティック"),(Language="ko",Text="트윈 스틱"),(Language="zh-Hans",Text="双摇杆游戏模板")),LocalizedDescriptions=((Language="en",Text="A twin stick shooter game with infinitely spawning enemies."),(Language="ja",Text="敵が無限にスポーンするツイン スティック シューティング ゲーム"),(Language="ko",Text="무한히 생성되는 적을 상대하는 트윈 스틱 슈팅 게임입니다."),(Language="zh-Hans",Text="一款双摇杆设计游戏，具有无限刷新的敌人。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(MountName="Input",DetailLevels=("High")))
+[2025.11.19-03.00.28:544][ 90]ImportText (Variants): Missing closing parenthesis: (Name="All",LocalizedDisplayNames=((Language="en",Text="All"),(Language="ja",Text="All (全員)"),(Language="ko",Text="모두"),(Language="zh-Hans",Text="全部")),LocalizedDescriptions=((Language="en",Text="Includes all Top Down variants."),(Language="ja",Text="すべてのトップダウン バリアントが含まれています"),(Language="ko",Text="모든 탑 뷰 베리언트를 포함합니다."),(Language="zh-Hans",Text="包含全部第三人称模板变体。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(DetailLevels=(Standard),MountName="Variant_Strategy"),(MountName="Input",DetailLevels=("High")))
+[2025.11.19-03.00.31:082][234]LogSlate: Window 'プロジェクトを開く' being destroyed
+[2025.11.19-03.01.33:809][411]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/class/ND1/ND1/ND1_1/" -install="C:/class/ND1/ND1_1.zip"" -nocompile -nocompileuat ]
+[2025.11.19-03.01.33:826][411]LogStreaming: Display: FlushAsyncLoading(528): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-03.01.33:856][411]LogAudioDerivedData: Display: 圧縮オーディオ フォーマット BINKA ハッシュ hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END ウェーブ CompileSuccess をビルド中...
+[2025.11.19-03.01.33:864][411]LogAudioDerivedData: Display: CompileSuccess は、品質モディファイア 1.00 によって品質 80 に BINKA で 14.13% (93KB から 13KB まで) に圧縮されています
+[2025.11.19-03.01.33:866][411]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Duration=0.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13553 bytes, ChunkN=0)
+[2025.11.19-03.01.33:955][411]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Running AutomationTool...
+[2025.11.19-03.01.33:978][411]LogAutomationController: Ignoring very large delta of 9.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.11.19-03.01.33:999][413]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.11.19-03.01.34:276][430]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Starting AutomationTool...
+[2025.11.19-03.01.34:308][432]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/class/ND1/ND1/ND1_1/ -install=C:/class/ND1/ND1_1.zip -nocompile -nocompileuat
+[2025.11.19-03.01.34:670][453]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Initializing script modules...
+[2025.11.19-03.01.35:362][490]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Total script module initialization time: 0.69 s.
+[2025.11.19-03.01.35:469][497]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2025.11.19-03.01.36:318][546]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Executing commands...
+[2025.11.19-03.01.36:318][546]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Started zipping project up
+[2025.11.19-03.01.36:318][546]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Project directory: C:\class\ND1\ND1\ND1_1
+[2025.11.19-03.01.36:318][546]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Install directory: C:/class/ND1/ND1_1.zip
+[2025.11.19-03.01.36:318][546]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Packaging up the project...
+[2025.11.19-03.01.37:468][615]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): Completed zipping project up
+[2025.11.19-03.01.37:468][615]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): BUILD SUCCESSFUL
+[2025.11.19-03.01.37:478][615]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): AutomationTool executed for 0h 0m 3s
+[2025.11.19-03.01.37:478][615]UATHelper: プロジェクトタスクをZIP (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2025.11.19-03.01.37:550][619]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-03.01.37:578][620]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18432951507788048109
+[2025.11.19-03.01.37:579][620]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.11.19-03.01.37:580][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
